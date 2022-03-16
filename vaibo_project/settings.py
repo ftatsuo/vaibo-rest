@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'vaibosmartphonedb',
         'USER': 'root',
-        'PASSWORD': 'zhost89P!'
+        'PASSWORD': 'senha'
     }
 }
 
